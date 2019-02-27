@@ -1,0 +1,11 @@
+html, body {
+    background: url('../img/working-hoorah.jpg') center no-repeat;
+    height: 100%;
+    background-size: cover;
+}
+
+.pasfoto {
+    height: 40%;
+    margin-top: 50px;
+    box-shadow: 10px 10px 5px black;
+}
